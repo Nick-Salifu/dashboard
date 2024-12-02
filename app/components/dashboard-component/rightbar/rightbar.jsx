@@ -7,7 +7,7 @@ export default function Rightbar() {
         <div className={styles.container}>
            <div className={styles.item}>
                 <div className={styles.bgContainer}>
-                    <Image className={styles.bg} src="/astro.jpg" fill alt="astro picture" />
+                    <Image className={styles.bg} src="/astro.jpg" width={120} height={120} alt="astro picture" />
                 </div>
                 <div className={styles.texts}>
                     <span className={styles.notification}>

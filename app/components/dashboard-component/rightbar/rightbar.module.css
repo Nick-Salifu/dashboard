@@ -4,8 +4,8 @@
 
 .item {
     position: relative;
-    background-color: linear-gradient(to top, #182237, #253382);
-    padding: 20px 0;
+    background: linear-gradient(to top, #182237, #253382);
+    padding: 20px;
     border-radius: 10px;
     margin-bottom: 10px;
 }
@@ -19,7 +19,7 @@
 }
 
 .bg {
-    object-fit: cover;
+    object-fit: contain;
     opacity: 0.2;
     border-radius: 50%
 }

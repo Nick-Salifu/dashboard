@@ -5,8 +5,8 @@ export default function Login() {
         <div className={styles.container}>
             <form className={styles.form}>
                 <h1>Login</h1>
-                <input type="text" placeholder="username" />
-                <input type="password" placeholder="password" />
+                <input type="text" placeholder="Username" />
+                <input type="password" placeholder="Password" />
                 <button>Login</button>
             </form>
         </div>

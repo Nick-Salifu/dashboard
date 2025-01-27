@@ -26,6 +26,7 @@
     border: 2px solid #2e374a;
     border-radius: 5px;
     color: var(--text);
+    font-size: 16px
 }
 
 .form button {
@@ -35,5 +36,6 @@
     color: var(--text);
     border: none;
     border-radius: 5px;
-    cursor: pointer
+    cursor: pointer;
+    font-size: 16px
 }
